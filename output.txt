@@ -1,0 +1,19 @@
+example:Enter the number of dates
+	5
+	enter the dates
+	03
+	04
+	2020
+	02
+	03
+	2020
+	25
+	2
+	1995
+	16
+	8
+	2002
+	27
+	03
+	2020
+	3-4-2020 and 27-3-2020
